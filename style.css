@@ -30,6 +30,11 @@ body{
 }
 
 .ses p{
+<<<<<<< HEAD
     padding-left: 19px;
     padding-right: 19px;
+=======
+    padding-left: 25px;
+    padding-right: 23px;
+>>>>>>> experimentos
 }
