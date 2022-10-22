@@ -7,15 +7,29 @@ body{
 .ses{
     text-align: left;
     width: 40%;
-    color:cornflowerblue;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(139,45,253,1) 100%);
+    color:white;
+    font-weight: bold;
     border: 1px solid black;
-    padding-left: 20px;
-    padding-right: 20px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .ses h2{
+    color:white;
     text-align: center;
-    color:blue;
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(130,27,204,1) 50%, rgba(0,212,255,1) 100%);
+    margin-top:0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 3px groove white;
+
+}
+
+.ses p{
+    padding-left: 20px;
+    padding-right: 20px;
 }
