@@ -1,14 +1,14 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:crimson;
+    color:yellow;
 }
 
 .ses{
     text-align: left;
     width: 40%;
-    background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(139,45,253,1) 100%);
+    background: rgb(109, 248, 250);
+    background: linear-gradient(0deg, rgb(92, 237, 240) 0%, rgb(174, 138, 218) 100%);
     color:white;
     font-weight: bold;
     border: 1px solid red;
@@ -20,7 +20,7 @@ body{
     color:lavender;
     text-align: center;
     background: pink;
-    background: linear-gradient(90deg, pink(0,212,255,1) 0%, rgba(130,27,204,1) 50%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, pink(0,212,255,1) 0%, rgb(172, 110, 216) 50%, rgb(130, 234, 255) 100%);
     margin-top:0;
     margin-bottom: 0;
     padding-top: 5px;
@@ -30,6 +30,6 @@ body{
 }
 
 .ses p{
-    padding-left: 25px;
-    padding-right: 23px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
