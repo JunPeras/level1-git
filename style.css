@@ -17,7 +17,7 @@ body{
 }
 
 .ses h2{
-    color:white;
+    color:wheat;
     text-align: center;
     background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,69,1) 100%);
@@ -25,7 +25,7 @@ body{
     margin-bottom: 0;
     padding-top: 5px;
     padding-bottom: 5px;
-    border-bottom: 3px groove white;
+    border-bottom: 3px solid white;
 
 }
 
