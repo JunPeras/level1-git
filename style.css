@@ -17,10 +17,10 @@ body{
 }
 
 .ses h2{
-    color:wheat;
+    color:lavender;
     text-align: center;
-    background: rgb(0,212,255);
-    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(130,27,204,1) 50%, rgba(0,212,255,1) 100%);
+    background: pink;
+    background: linear-gradient(90deg, pink(0,212,255,1) 0%, rgba(130,27,204,1) 50%, rgba(0,212,255,1) 100%);
     margin-top:0;
     margin-bottom: 0;
     padding-top: 5px;
